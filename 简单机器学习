@@ -1,4 +1,4 @@
-#机器学习例子
+#机器学习class1
 import numpy as np
 import matplotlib.pyplot as plt
 x,y=[],[]
